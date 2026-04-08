@@ -14,5 +14,3 @@ Output
 ```
 
 2023 XYZ, Inc.
-
-Proyecto final - Federico Fina
