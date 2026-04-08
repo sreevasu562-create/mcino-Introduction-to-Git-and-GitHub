@@ -1,16 +1,7 @@
-# Introduction to Git and GitHub
+# IBM Developer Skills Network - Introduction to Git and GitHub
 
-## Simple Interest Calculator
+This project corresponds to the Final Project of the IBM Full-Stack Cloud Developer Professional Certificate.
+Project Name: Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
+## Author
+Ivan - DyszzIDG

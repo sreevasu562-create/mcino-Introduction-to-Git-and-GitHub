@@ -1,0 +1,10 @@
+$ curl -s https://api.github.com/repos/DyszzIDG/mcino-Introduction-to-Git-and-GitHub/pulls/1 | grep -i "state"
+  "state": "open",
+  
+$ curl -s https://api.github.com/repos/DyszzIDG/mcino-Introduction-to-Git-and-GitHub/pulls/1 | grep -i "head" -A 5
+  "head": {
+    "label": "DyszzIDG:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "sha": "9f3d5ea",
+    "repo": {
+      "full_name": "DyszzIDG/mcino-Introduction-to-Git-and-GitHub"
