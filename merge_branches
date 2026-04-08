@@ -1,0 +1,8 @@
+PS C:\Users\Noora Fathima> git checkout main
+Switched to branch 'main'
+
+PS C:\Users\Noora Fathima> git merge bug-fix-typo
+Updating abc1234..def5678
+Fast-forward
+README.md | 1 +
+1 file changed, 1 insertion(+)
