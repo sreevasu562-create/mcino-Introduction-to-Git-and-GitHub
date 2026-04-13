@@ -1,1 +1,1 @@
-curl -s pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'
+curl -s https://github.com/lindjoshuakim-web/mcino-Introduction-to-Git-and-GitHub/blob/main/README.md pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'
