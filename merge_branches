@@ -1,1 +1,1 @@
-
+curl -s pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'
