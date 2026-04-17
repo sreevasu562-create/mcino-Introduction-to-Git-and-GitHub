@@ -15,8 +15,6 @@ Output
 
 _© 2022 XYZ, Inc._
 
-# Introduction to Git and GitHub
+## Update
 
-## Simple Interest Calculator
-
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+This repository is part of GitHub Pull Request assignment.
