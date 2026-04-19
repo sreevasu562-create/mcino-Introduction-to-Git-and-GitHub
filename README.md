@@ -4,4 +4,5 @@ This project corresponds to the Final Project of the IBM Full-Stack Cloud Develo
 Project Name: Interest Calculator
 
 ## Author
-Ivan - DyszzIDG
+
+Ivan G - DyszzIDG
