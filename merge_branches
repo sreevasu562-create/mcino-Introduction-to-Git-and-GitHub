@@ -1,0 +1,8 @@
+
+git merge typo-bug-fix
+Updating 7ff09f4..816a144
+Fast-forward
+ README.md                            | 2 +-
+ mcino-Introduction-to-Git-and-GitHub | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 160000 mcino-Introduction-to-Git-and-GitHub
