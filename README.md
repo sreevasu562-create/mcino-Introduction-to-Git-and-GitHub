@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+Final PR fix line for Task 8.
 ```
 
 _© 2022 XYZ, Inc._
