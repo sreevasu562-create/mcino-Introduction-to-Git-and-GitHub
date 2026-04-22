@@ -1,3 +1,5 @@
+This is a typo fix
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
