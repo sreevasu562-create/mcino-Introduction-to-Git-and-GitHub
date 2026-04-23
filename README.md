@@ -13,4 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
+This line fixes a typo in the project.
 _© 2022 XYZ, Inc._
