@@ -14,8 +14,12 @@ Output
    simple interest = p*t*r
 ```
 
+ HEAD
 _© 2023 XYZ, Inc.
 
 
 # coding-project-template
  parent of d8324ad (Update README.md)
+
+_© 2022 XYZ, Inc._
+ adb986b (Revert "Fix typo in footer year from 2022 to 2023")
