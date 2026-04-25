@@ -1,2 +1,2 @@
 # My GitHub Project
-**Project Name:** Graded IBM
+**Project Name:** Simple Interest Calculator
