@@ -1,16 +1,9 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+This project is part of the final assignment for the "Introduction to Git and GitHub" course. 
+It demonstrates the ability to fork a repository, manage branches, merge changes, and create pull requests using both the GitHub UI and Git CLI.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
+## Project Details
+- **Project Name:** mcino-Introduction-to-Git-and-GitHub
+- **Author:** nntwrld01
+- **Purpose:** Educational purposes for IBM Developer Skills Network
