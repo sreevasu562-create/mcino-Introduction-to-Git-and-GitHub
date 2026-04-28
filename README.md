@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+Correction de typo par Odile.
