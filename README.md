@@ -12,5 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
+ Here iam writing to create a PULL Request
 _© 2022 XYZ, Inc._
