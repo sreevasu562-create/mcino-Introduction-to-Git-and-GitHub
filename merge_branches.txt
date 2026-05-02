@@ -1,0 +1,4 @@
+Merge made by the 'ort' strategy.
+ forked-repo.txt | 224 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 224 insertions(+)
+ create mode 100644 forked-repo.txt
