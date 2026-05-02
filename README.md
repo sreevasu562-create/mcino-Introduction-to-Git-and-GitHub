@@ -15,3 +15,5 @@ Output
 
 _© 2022 XYZ, Inc._
 "Updated documentation" 
+"This project is an introduction to Git and GitHub." 
+"Final submission update" 
