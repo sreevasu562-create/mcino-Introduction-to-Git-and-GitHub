@@ -1,0 +1,6 @@
+git clone https://github.com/samirahampton-blip/mcino-Introduction-to-Git-and-GitHub.git
+Cloning into 'mcino-Introduction-to-Git-and-GitHub'...
+remote: Enumerating objects: 35, done.
+remote: Total 35 (delta 0), reused 0 (delta 0), pack-reused 35 (from 1)
+Receiving objects: 100% (35/35), 17.46 KiB | 17.46 MiB/s, done.
+Resolving deltas: 100% (6/6), done.
