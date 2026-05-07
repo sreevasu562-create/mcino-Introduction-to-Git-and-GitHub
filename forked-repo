@@ -1,0 +1,19 @@
+curl -s https://api.github.com/repos/utkarshIsAProgrammer/github-final-project- | grep -E "full_name|fork\":|parent" -A 15
+
+"full_name": "utkarshIsAProgrammer/github-final-project-",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/utkarshIsAProgrammer/github-final-project-",
+  ...
+  "parent": {
+    "id": 1050225087,
+    "node_id": "R_kgDOPpkpvw",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 70551872,
+      ...
+    }
+  }
