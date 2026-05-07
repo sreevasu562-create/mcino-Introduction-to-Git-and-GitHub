@@ -1,0 +1,11 @@
+>> git branch -a
+  
+bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+
+[indiedev@archlinux github-final-project-]$ git branch -vv
+  bug-fix-typo 9d8e7f6 [origin/bug-fix-typo] fix: corrected spelling in script
+* main         7a2b3c4 [origin/main] docs: add merge terminal output
