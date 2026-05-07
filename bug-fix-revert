@@ -1,0 +1,17 @@
+>> curl -s https://api.github.com/repos/utkarshIsAProgrammer/github-final-project-/pulls/1 | grep -E "html_url|state|label|full_name" -A 5
+  
+"html_url": "https://github.com/utkarshIsAProgrammer/github-final-project-/pull/1",
+  "state": "open",
+  ...
+  "head": {
+    "label": "utkarshIsAProgrammer:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "sha": "9d8e7f6...",
+    "user": {
+      "login": "utkarshIsAProgrammer",
+      ...
+    },
+    "repo": {
+      "full_name": "utkarshIsAProgrammer/github-final-project-",
+      "private": false,
+      "fork": true,
