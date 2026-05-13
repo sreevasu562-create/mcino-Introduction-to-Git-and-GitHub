@@ -1,0 +1,7 @@
+curl -s https://api.github.com/repos/wooden5730/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+
+theia@theia-wooden5730:/home/project$ curl -s https://api.github.com/repos/wooden5730/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+theia@theia-wooden5730:/home/project$ 
+
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
