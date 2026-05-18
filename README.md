@@ -10,3 +10,4 @@ Run the bash script `simple-interest.sh` to calculate simple interest.
 
 ## License
 This project is licensed under the Apache 2.0 License.
+fix typo
