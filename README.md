@@ -4,6 +4,7 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 This README explains how the simple interest calculation works.
+This change is used to open a pull request from the fork.
 
 ```
 Input:
