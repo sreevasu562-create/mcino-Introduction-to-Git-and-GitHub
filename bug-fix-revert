@@ -1,0 +1,7 @@
+{
+  echo '$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7981 | jq -r '\''.head.repo.clone_url'\'''
+  curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7981 | jq -r '.head.repo.clone_url'
+  echo
+  echo '$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7981 | jq -r '\''.head.repo.full_name'\'''
+  curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7981 | jq -r '.head.repo.full_name'
+} > bug-fix-revert
