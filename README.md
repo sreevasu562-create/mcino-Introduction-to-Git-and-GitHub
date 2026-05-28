@@ -1,3 +1,4 @@
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -13,4 +14,7 @@ Output
    simple interest = p*t*r
 ```
 
-_Â 2023 XYZ, Inc._
+_Â 2022 XYZ, Inc._
+=======
+# coding-project-template
+>>>>>>> parent of d8324ad (Update README.md)
