@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+This uses the formula SI = PRT/100.
