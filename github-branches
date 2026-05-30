@@ -1,0 +1,6 @@
+* bug-fix-revert                91f5341 [origin/bug-fix-revert] Create merge_branches
+  bug-fix-typo                  933cc32 Fix typo in README
+  main                          933cc32 [origin/main: ahead 1] Fix typo in README
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 91f5341 Create merge_branches
+  remotes/origin/main           ad95b0a Create close_pr.yml
